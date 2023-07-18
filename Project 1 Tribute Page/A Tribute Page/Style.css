@@ -1,0 +1,26 @@
+html {
+    background-color: black;
+    color: rgb(255, 0, 0);
+}
+.h1 {
+    color: red;
+    text-align: center;
+    font-style: italic;
+    text-shadow: 2px 2px 2px rgb(122, 0, 0);
+}
+.img1 {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 40%;
+}
+.img1capt {
+    text-align: center;
+    color: rgb(255, 60, 0);
+    font-size: 195%; 
+}
+hr {
+    height: 1px;
+    background-color: rgb(255, 0, 0);
+    border: none;
+}
